@@ -1,0 +1,33 @@
+DASHBOARD VISUALISATION 
+Dashboard Visualization Project
+This project is a modern and interactive data visualization dashboard created using React for the frontend and custom CSS for styling. The dashboard displays key variables and allows filtering for better insights.
+
+Features
+Visualizations for Intensity, Likelihood, Relevance, Year, Country, Topics, Region, and City.
+Interactive filters for:
+End Year
+Topics
+Sector
+Region
+PEST
+Source
+SWOT
+Country
+City
+Modern UI with a responsive design.
+Easy navigation with a styled sidebar and top bar.
+Tech Stack
+Frontend: React
+Styling: Custom CSS
+Charting Libraries: D3.js, Chart.js, or Plotly.js (use any as per your choice)
+Backend: Flask/Django (not included in this repository)
+
+my-dashboard/
+├── public/         # Static files
+├── src/            # Source files
+│   ├── components/ # React components
+│   ├── custom.css  # Custom styling
+│   └── App.js      # Main app file
+└── package.json    # Project configuration
+License
+This project is open-source and available under the MIT License.
